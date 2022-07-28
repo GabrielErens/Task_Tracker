@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,aAAa,EAAE,IAAI;CACtB",
-    "sources": [
-        "task-add.component.scss"
-    ],
-    "names": [],
-    "file": "task-add.component.css"
-}
